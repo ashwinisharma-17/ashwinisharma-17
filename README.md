@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinisharma-17&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinisharma-17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinisharma-17" alt="ashwinisharma-17" /></a>🏆GitHub Trophies</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinisharma-17" alt="ashwinisharma-17" /></a></p>
 
 - 🔭 I’m currently working on **Online Unused Medicine Donation Web Portal**
 
