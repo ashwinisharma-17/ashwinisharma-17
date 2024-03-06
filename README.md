@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, Welcome Here!</h1>
-<h3 align="center">A passionate Coder from India</h3>
+<h3 align="center">A passionate coder from India</h3>
 <br/>
 <p>Hello! I'm Ashwini Sharma, a B.Tech CSE student at Baderia Global Institute of Engineering and Management in Jabalpur. I am currently seeking opportunities as a Java Full Stack Developer. With a strong foundation in computer science and a passion for coding, I am eager to apply my skills and contribute to innovative projects. </p> 
 
