@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="" width="250" height="150" align="center">
+<img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="" width="250" height="150" align="center" border-radius="5">
 <h3 align="center">A passionate Coder from India</h3>
 <br/>
 <p>Hello! I'm Ashwini Sharma, a B.Tech CSE student at Baderia Global Institute of Engineering and Management in Jabalpur. I am currently seeking opportunities as a Java Full Stack Developer. With a strong foundation in computer science and a passion for coding, I am eager to apply my skills and contribute to innovative projects. </p> 
