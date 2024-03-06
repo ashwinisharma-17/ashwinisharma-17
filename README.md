@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ashwini Sharma</h1>
+<h1 align="center">Being Webbie 🕸️</h1>
 <h3 align="center">A passionate Coder from India</h3>
 <br/>
-<p>Hello! I'm Ashwini Sharma, a B.Tech CSE student at Baderia Global Institute of Engineering and Management in Jabalpur. I am currently seeking opportunities as a software engineer. With a strong foundation in computer science and a passion for coding, I am eager to apply my skills and contribute to innovative projects. </p> 
+<p>Hello! I'm Ashwini Sharma, a B.Tech CSE student at Baderia Global Institute of Engineering and Management in Jabalpur. I am currently seeking opportunities as a Java Full Stack Developer. With a strong foundation in computer science and a passion for coding, I am eager to apply my skills and contribute to innovative projects. </p> 
 
 - 🔭 I’m currently working on **Online Unused Medicine Donation Web Portal**
 
-- 🌱 I’m currently learning **React, Java, Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **React, Java, Spring Boot**
+- 💬 Ask me about **HTML 5, Tailwind CSS, Javascript, React, Java, Spring Boot, MySql**
 
 - 📫 How to reach me **as8444852@gmail.com**
 
